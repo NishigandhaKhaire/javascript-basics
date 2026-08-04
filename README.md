@@ -214,9 +214,9 @@ Build a Bookmark Manager that tests all your skills:
 
 ## 📖 Additional Resources
 
-- [MDN Web Docs - DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-- [JavaScript.info](https://javascript.info/)
-- [MDN - JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [MDN Web Docs - DOM](https://nishigandhakhaire.github.io)
+- [JavaScript.info](https://nishigandhakhaire.github.io)
+- [MDN - JavaScript Guide](https://nishigandhakhaire.github.io)
 
 ---
 
